@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /application
+Disallow: /upload
+Disallow: /pages
+Disallow: /install
+Disallow: /admin
+Disallow: /admin-panel
+Sitemap: /sitemap.xml
